@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\MicrosoftSpeechToText.exe.config
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\MicrosoftSpeechToText.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\MicrosoftSpeechToText.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\obj\x64\Debug\MicrosoftSpeechToText.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\obj\x64\Debug\MicrosoftSpeechToText.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\obj\x64\Debug\MicrosoftSpeechToText.csprojResolveAssemblyReference.cache

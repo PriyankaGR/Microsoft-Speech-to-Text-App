@@ -1,0 +1,1 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\MicrosoftSpeechToText\MicrosoftSpeechToText\bin\Debug\MicrosoftSpeechToText.exe.config
